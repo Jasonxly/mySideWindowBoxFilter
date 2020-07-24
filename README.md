@@ -1,6 +1,6 @@
 # mySideWindowBoxFilter
 sideWindowBoxFilter-gaussian
-#paper：
+# paper：
 @misc{yin2019window,
     title={Side Window Filtering},
     author={Hui Yin and Yuanhao Gong and Guoping Qiu},
