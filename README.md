@@ -1,0 +1,2 @@
+# mySideWindowBoxFilter
+sideWindowBoxFilter-gaussian
